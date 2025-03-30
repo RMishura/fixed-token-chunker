@@ -30,7 +30,12 @@ This repository contains an implementation of a pipeline for splitting the **"st
      ```bash
      python experiment.py 200 5
      ```
-
+     ```
+     Loading data and embedding model...
+     Calculating metrics for number of retrieved chunks=5, chunk_size=200, chunk_overlap=10...
+     Average precision: 0.03982913308934815
+     Average recall: 0.9518411836692183
+     ```
 ---
 
 ## Table
